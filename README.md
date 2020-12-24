@@ -6,8 +6,8 @@ Discription:
  Register page:
                Here New user can  register and create his/her account.
                 ![.](signup.jpeg)
+                ![.](someone alredy registered)
                 ![.](register.jpeg)
-                ![.](someone already registered.jpeg)
                 
  Login page:
               Here user can login in to his page.

@@ -7,11 +7,11 @@ Discription:
                Here New user can  register and create his/her account.
                 ![.](signup.jpeg)
                 ![.](register.jpeg)
-                ![.](someone already registered)
+                ![.](register already page)
  Login page:
               Here user can login in to his page.
               ![.](signin.jpeg)
-              ![.](login error.jpeg)
+              
  Logout page:
                Here user can view his profile page and  also make changes using setting option and can logout.
                ![.](logout.jpeg)
